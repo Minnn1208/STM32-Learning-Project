@@ -18,5 +18,6 @@
 .cmsis
 .eide
 .vscode
+.pack
 *.code-workspace
 *.clang-format
